@@ -7,7 +7,7 @@ on:
       timezone: "Pacific/Honolulu"
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -40,6 +40,18 @@ jobs:
           DISCOGS_USER_AGENT: wookie61-album-pick/1.0
           OUTPUT_PATH: public/collection.json
         run: npm run refresh
+
+      - name: Commit refreshed collection feed
+        run: |
+          if git diff --quiet -- public/collection.json; then
+            echo "Collection feed is unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/collection.json
+          git commit -m "chore: refresh collection feed"
+          git push origin HEAD:main
 
       - name: Add Pages metadata
         run: touch public/.nojekyll
