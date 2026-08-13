@@ -1,0 +1,57 @@
+name: Refresh Discogs collection feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+      timezone: "Pacific/Honolulu"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: discogs-pages
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Node
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Test pagination and retry behavior
+        run: npm test
+
+      - name: Fetch and verify full collection
+        env:
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+          DISCOGS_USERNAME: wookie61
+          DISCOGS_USER_AGENT: wookie61-album-pick/1.0
+          OUTPUT_PATH: public/collection.json
+        run: npm run refresh
+
+      - name: Add Pages metadata
+        run: touch public/.nojekyll
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload public feed
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
