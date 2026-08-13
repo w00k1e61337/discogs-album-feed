@@ -1,0 +1,9417 @@
+{
+  "schema_version": 1,
+  "source": "Discogs collection",
+  "username": "wookie61",
+  "generated_at": "2026-08-13T21:26:35.449Z",
+  "verification": {
+    "complete": true,
+    "reported_items": 270,
+    "fetched_items": 270,
+    "fetched_pages": 3,
+    "per_page": 100
+  },
+  "releases": [
+    {
+      "instance_id": 1982452176,
+      "release_id": 33458426,
+      "folder_id": 1,
+      "artist": "Khemmis",
+      "title": "Absolution",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Doom Metal",
+        "Stoner Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "20 Buck Spin",
+          "catalog_number": "SPIN075"
+        }
+      ]
+    },
+    {
+      "instance_id": 2086486016,
+      "release_id": 35813815,
+      "folder_id": 1,
+      "artist": "Wode",
+      "title": "Burn In Many Mirrors",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Black Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "20 Buck Spin",
+          "catalog_number": "SPIN132"
+        }
+      ]
+    },
+    {
+      "instance_id": 2069967781,
+      "release_id": 25907689,
+      "folder_id": 1,
+      "artist": "Eminem",
+      "title": "Curtain Call - The Hits",
+      "year": 2021,
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [
+        "Pop Rap",
+        "Horrorcore",
+        "Hardcore Hip-Hop"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Aftermath Entertainment",
+          "catalog_number": "602498878965"
+        },
+        {
+          "name": "Shady Records",
+          "catalog_number": "602498878965"
+        },
+        {
+          "name": "Interscope Records",
+          "catalog_number": "602498878965"
+        },
+        {
+          "name": "Goliath Artists",
+          "catalog_number": "602498878965"
+        },
+        {
+          "name": "Web Entertainment",
+          "catalog_number": "602498878965"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982446260,
+      "release_id": 32029772,
+      "folder_id": 1,
+      "artist": "In This Moment",
+      "title": "Rise Of The Blood Legion Greatest Hits (Chapter 1)",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Nu Metal",
+        "Gothic Metal",
+        "Alternative Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": 1,
+          "descriptions": [
+            "Compilation",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Arising Empire",
+          "catalog_number": "none"
+        },
+        {
+          "name": "Century Media",
+          "catalog_number": "none"
+        }
+      ]
+    },
+    {
+      "instance_id": 2023233019,
+      "release_id": 31752956,
+      "folder_id": 1,
+      "artist": "In This Moment",
+      "title": "Blood",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Gothic Metal",
+        "Melodic Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Arising Empire",
+          "catalog_number": "none"
+        },
+        {
+          "name": "Century Media",
+          "catalog_number": "none"
+        }
+      ]
+    },
+    {
+      "instance_id": 2052785378,
+      "release_id": 7662640,
+      "folder_id": 1,
+      "artist": "Pantera",
+      "title": "History Of Hostility",
+      "year": 2015,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Heavy Metal",
+        "Thrash"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "ATCO Records",
+          "catalog_number": "081227954192"
+        },
+        {
+          "name": "Rhino Records (2)",
+          "catalog_number": "081227954192"
+        }
+      ]
+    },
+    {
+      "instance_id": 2173235744,
+      "release_id": 37504221,
+      "folder_id": 1,
+      "artist": "Shinedown",
+      "title": "Ei8ht",
+      "year": 2026,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Special Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catalog_number": "075678590153"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970832347,
+      "release_id": 26294276,
+      "folder_id": 1,
+      "artist": "Halestorm",
+      "title": "The Strange Case Of...",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catalog_number": "075678630668"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022634859,
+      "release_id": 23761439,
+      "folder_id": 1,
+      "artist": "Shinedown",
+      "title": "Planet Zero",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catalog_number": "075678637759"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970830478,
+      "release_id": 23159813,
+      "folder_id": 1,
+      "artist": "Halestorm",
+      "title": "Back From The Dead",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catalog_number": "075678641329"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022635369,
+      "release_id": 14141886,
+      "folder_id": 1,
+      "artist": "Skillet",
+      "title": "Victorious",
+      "year": 2019,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catalog_number": "591670-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2005565724,
+      "release_id": 12649295,
+      "folder_id": 1,
+      "artist": "Halestorm",
+      "title": "Vicious",
+      "year": 2018,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "12\"",
+            "45 RPM",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catalog_number": "7567-86562-6"
+        }
+      ]
+    },
+    {
+      "instance_id": 2005592454,
+      "release_id": 7908337,
+      "folder_id": 1,
+      "artist": "The Rascals",
+      "title": "Once Upon A Dream",
+      "year": 1968,
+      "genres": [
+        "Rock",
+        "Funk / Soul"
+      ],
+      "styles": [
+        "Pop Rock",
+        "Psychedelic Rock",
+        "Soul"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catalog_number": "SD 8169"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982430921,
+      "release_id": 16132654,
+      "folder_id": 1,
+      "artist": "Various",
+      "title": "The Crow (Original Motion Picture Soundtrack)",
+      "year": 2020,
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Stage & Screen"
+      ],
+      "styles": [
+        "Soundtrack",
+        "Alternative Rock",
+        "Goth Rock",
+        "Heavy Metal",
+        "Industrial Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Single Sided",
+            "Etched"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": 1,
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catalog_number": "603497846146"
+        },
+        {
+          "name": "Atlantic",
+          "catalog_number": "R1 82519"
+        }
+      ]
+    },
+    {
+      "instance_id": 2003158674,
+      "release_id": 7483806,
+      "folder_id": 1,
+      "artist": "Halestorm",
+      "title": "Halestorm",
+      "year": 2015,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catalog_number": "7567-86697-9"
+        },
+        {
+          "name": "Atlantic",
+          "catalog_number": "549118-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022638533,
+      "release_id": 18623119,
+      "folder_id": 1,
+      "artist": "Stone Temple Pilots",
+      "title": "Core",
+      "year": 2020,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Grunge",
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catalog_number": "RR1 82418"
+        },
+        {
+          "name": "Atlantic",
+          "catalog_number": "603497845651"
+        }
+      ]
+    },
+    {
+      "instance_id": 2025342764,
+      "release_id": 15704569,
+      "folder_id": 1,
+      "artist": "In This Moment",
+      "title": "Mother",
+      "year": 2020,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Gothic Metal",
+        "Goth Rock",
+        "Industrial Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catalog_number": "016861740818"
+        },
+        {
+          "name": "Roadrunner Records",
+          "catalog_number": "016861740818"
+        }
+      ]
+    },
+    {
+      "instance_id": 2003151843,
+      "release_id": 24592238,
+      "folder_id": 1,
+      "artist": "Bloodywood",
+      "title": "Rakshak",
+      "year": 2022,
+      "genres": [
+        "Hip Hop",
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "styles": [
+        "Folk Metal",
+        "Nu Metal",
+        "Indian Classical"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atomic Fire",
+          "catalog_number": "AFR0062V"
+        }
+      ]
+    },
+    {
+      "instance_id": 2050501196,
+      "release_id": 25133764,
+      "folder_id": 1,
+      "artist": "Epica (2)",
+      "title": "The Alchemy Project",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Symphonic Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Mini-Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atomic Fire",
+          "catalog_number": "AFR0064V"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982623803,
+      "release_id": 22157839,
+      "folder_id": 1,
+      "artist": "Sixx:A.M.",
+      "title": "Hits",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Better Noise Music",
+          "catalog_number": "BNM 649-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2083585908,
+      "release_id": 35665114,
+      "folder_id": 1,
+      "artist": "Five Finger Death Punch",
+      "title": "20 Years Of Five Finger Death Punch - Best Of (Volume II)",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Metal",
+        "Hard Rock",
+        "Groove Metal",
+        "Heavy Metal",
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Remastered",
+            "Special Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Better Noise Music",
+          "catalog_number": "BNM-01-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2035985457,
+      "release_id": 25990627,
+      "folder_id": 1,
+      "artist": "The Hu (2)",
+      "title": "Rumble Of Thunder",
+      "year": 2023,
+      "genres": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "styles": [
+        "Folk Rock",
+        "Folk Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Better Noise Music",
+          "catalog_number": "BNM-054-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982444466,
+      "release_id": 24248843,
+      "folder_id": 1,
+      "artist": "Five Finger Death Punch",
+      "title": "AfterLife",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Metal",
+        "Groove Metal",
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Better Noise Music",
+          "catalog_number": "BNM-123-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2026315472,
+      "release_id": 29160028,
+      "folder_id": 1,
+      "artist": "Eva Under Fire",
+      "title": "Love, Drugs & Misery",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Alternative Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Better Noise Music",
+          "catalog_number": "BNM-288-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2144346694,
+      "release_id": 37117776,
+      "folder_id": 1,
+      "artist": "From Ashes To New",
+      "title": "Reflections",
+      "year": 2026,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Metal",
+        "Nu Metal",
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Better Noise Music",
+          "catalog_number": "BNM-43-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2077810480,
+      "release_id": 32282064,
+      "folder_id": 1,
+      "artist": "Nothing More (2)",
+      "title": "Nothing More",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Progressive Metal",
+        "Alternative Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Better Noise Music",
+          "catalog_number": "BNM-635-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2045942550,
+      "release_id": 34570243,
+      "folder_id": 1,
+      "artist": "Five Finger Death Punch",
+      "title": "20 Years Of Five Finger Death Punch - Best Of (Volume I)",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Nu Metal",
+        "Hard Rock",
+        "Groove Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Remastered",
+            "Special Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Better Noise Music",
+          "catalog_number": "BNM-964-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2029204269,
+      "release_id": 17156098,
+      "folder_id": 1,
+      "artist": "Metallica",
+      "title": "Kill 'Em All",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Thrash",
+        "Speed Metal",
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Blackened",
+          "catalog_number": "BLCKND003R-1W"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970814563,
+      "release_id": 18035203,
+      "folder_id": 1,
+      "artist": "Evanescence",
+      "title": "The Bitter Truth",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Grunge",
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "BMG",
+          "catalog_number": "4050538637083"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970845151,
+      "release_id": 32112033,
+      "folder_id": 1,
+      "artist": "HIM (2)",
+      "title": "When Love & Death Embrace // Best of 1997-2003",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "BMG",
+          "catalog_number": "964034231"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970843933,
+      "release_id": 31359721,
+      "folder_id": 1,
+      "artist": "HIM (2)",
+      "title": "Greatest Lovesongs Vol. 666",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Goth Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "BMG",
+          "catalog_number": "964035231"
+        }
+      ]
+    },
+    {
+      "instance_id": 2005583703,
+      "release_id": 33678636,
+      "folder_id": 1,
+      "artist": "HIM (2)",
+      "title": "Join Me",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Goth Rock",
+        "Gothic Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "45 RPM",
+            "Record Store Day",
+            "Single",
+            "Picture Disc"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "BMG",
+          "catalog_number": "964132011"
+        }
+      ]
+    },
+    {
+      "instance_id": 2037731770,
+      "release_id": 6344204,
+      "folder_id": 1,
+      "artist": "Iron Maiden",
+      "title": "Seventh Son Of A Seventh Son",
+      "year": 2014,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "BMG",
+          "catalog_number": "BMG14017V"
+        }
+      ]
+    },
+    {
+      "instance_id": 2079774258,
+      "release_id": 32035748,
+      "folder_id": 1,
+      "artist": "Mötley Crüe",
+      "title": "Greatest Hits",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Hard Rock",
+        "Glam"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "BMG",
+          "catalog_number": "4099964061017"
+        },
+        {
+          "name": "BMG",
+          "catalog_number": "964061011"
+        }
+      ]
+    },
+    {
+      "instance_id": 2036363249,
+      "release_id": 32681934,
+      "folder_id": 1,
+      "artist": "In This Moment",
+      "title": "Godmode",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Metal",
+        "Industrial Metal",
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "BMG",
+          "catalog_number": "538950251"
+        },
+        {
+          "name": "BMG",
+          "catalog_number": "538950281"
+        }
+      ]
+    },
+    {
+      "instance_id": 2084529408,
+      "release_id": 35778730,
+      "folder_id": 1,
+      "artist": "Motörhead",
+      "title": "Live At Brixton '87",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Rock & Roll"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Record Store Day",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "BMG",
+          "catalog_number": "964172821"
+        },
+        {
+          "name": "Murder One",
+          "catalog_number": "964172821"
+        }
+      ]
+    },
+    {
+      "instance_id": 2084528865,
+      "release_id": 35777383,
+      "folder_id": 1,
+      "artist": "Jelly Roll (3)",
+      "title": "Beautifully Broken (Pickin' Up The Pieces)",
+      "year": 2025,
+      "genres": [
+        "Folk, World, & Country"
+      ],
+      "styles": [
+        "Country"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Record Store Day"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "BMG",
+          "catalog_number": "602478661259"
+        },
+        {
+          "name": "Republic Records",
+          "catalog_number": "602478661259"
+        },
+        {
+          "name": "Stoney Creek Records",
+          "catalog_number": "602478661259"
+        }
+      ]
+    },
+    {
+      "instance_id": 1991234880,
+      "release_id": 32433378,
+      "folder_id": 1,
+      "artist": "Lacuna Coil",
+      "title": "The EPs",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Gothic Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Record Store Day",
+            "Compilation",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Brutal Planet Records",
+          "catalog_number": "BPV1677"
+        },
+        {
+          "name": "Century Media",
+          "catalog_number": "BPV1677"
+        }
+      ]
+    },
+    {
+      "instance_id": 2081763611,
+      "release_id": 9438641,
+      "folder_id": 1,
+      "artist": "Avenged Sevenfold",
+      "title": "The Stage",
+      "year": 2016,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Progressive Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Capitol Records",
+          "catalog_number": "00602557109788"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022629279,
+      "release_id": 22701209,
+      "folder_id": 1,
+      "artist": "Halsey",
+      "title": "If I Can't Have Love, I Want Power",
+      "year": 2021,
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Industrial",
+        "Pop Punk",
+        "Pop Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Capitol Records",
+          "catalog_number": "B003394801"
+        }
+      ]
+    },
+    {
+      "instance_id": 1991221539,
+      "release_id": 14786267,
+      "folder_id": 1,
+      "artist": "Bloodrock",
+      "title": "Bloodrock 2",
+      "year": 1970,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Blues Rock",
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Capitol Records",
+          "catalog_number": "ST-491"
+        }
+      ]
+    },
+    {
+      "instance_id": 2050499502,
+      "release_id": 34766258,
+      "folder_id": 1,
+      "artist": "Babymetal",
+      "title": "Metal Forth",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Metalcore",
+        "J-Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Capitol Records",
+          "catalog_number": "00602478153549"
+        },
+        {
+          "name": "BMW FOX Records",
+          "catalog_number": "00602478153549"
+        },
+        {
+          "name": "Amuse",
+          "catalog_number": "00602478153549"
+        }
+      ]
+    },
+    {
+      "instance_id": 1991238864,
+      "release_id": 19350505,
+      "folder_id": 1,
+      "artist": "Lorna Shore",
+      "title": "Flesh Coffin",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Deathcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        },
+        {
+          "name": "CD",
+          "quantity": 1,
+          "descriptions": [
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Century Media",
+          "catalog_number": "19439878901"
+        }
+      ]
+    },
+    {
+      "instance_id": 1991240016,
+      "release_id": 23369495,
+      "folder_id": 1,
+      "artist": "Lorna Shore",
+      "title": "...And I Return To Nothingness",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Deathcore",
+        "Symphonic Metal",
+        "Black Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "Single Sided",
+            "EP",
+            "Etched",
+            "Repress"
+          ]
+        },
+        {
+          "name": "CD",
+          "quantity": 1,
+          "descriptions": [
+            "EP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": 1,
+          "descriptions": [
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Century Media",
+          "catalog_number": "19658707381"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022620210,
+      "release_id": 26942900,
+      "folder_id": 1,
+      "artist": "Arch Enemy",
+      "title": "Black Earth",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Melodic Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Century Media",
+          "catalog_number": "19658793161"
+        }
+      ]
+    },
+    {
+      "instance_id": 2025294800,
+      "release_id": 27195096,
+      "folder_id": 1,
+      "artist": "Arch Enemy",
+      "title": "Burning Bridges",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Melodic Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Century Media",
+          "catalog_number": "19658800411"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970876093,
+      "release_id": 30719573,
+      "folder_id": 1,
+      "artist": "Lorna Shore",
+      "title": "Pain Remains",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Deathcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Century Media",
+          "catalog_number": "19658889211"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970859011,
+      "release_id": 33139497,
+      "folder_id": 1,
+      "artist": "Lacuna Coil",
+      "title": "Sleepless Empire",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Gothic Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Century Media",
+          "catalog_number": "19802828771"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022630994,
+      "release_id": 14467900,
+      "folder_id": 1,
+      "artist": "Lorna Shore",
+      "title": "Immortal",
+      "year": 2020,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Deathcore"
+      ],
+      "formats": [
+        {
+          "name": "All Media",
+          "quantity": 1,
+          "descriptions": [
+            "Album"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "CD",
+          "quantity": 1,
+          "descriptions": []
+        }
+      ],
+      "labels": [
+        {
+          "name": "Century Media Records",
+          "catalog_number": "19439711481"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022620483,
+      "release_id": 24190133,
+      "folder_id": 1,
+      "artist": "Arch Enemy",
+      "title": "Deceivers",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Melodic Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Century Media",
+          "catalog_number": "19439952351"
+        },
+        {
+          "name": "Savage Messiah Music",
+          "catalog_number": "19439952351"
+        }
+      ]
+    },
+    {
+      "instance_id": 2003161710,
+      "release_id": 33517778,
+      "folder_id": 1,
+      "artist": "Arch Enemy",
+      "title": "Blood Dynasty",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Melodic Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Century Media",
+          "catalog_number": "19802838981"
+        },
+        {
+          "name": "Savage Messiah Music",
+          "catalog_number": "19802838981"
+        }
+      ]
+    },
+    {
+      "instance_id": 2006455806,
+      "release_id": 2338524,
+      "folder_id": 1,
+      "artist": "Rick Springfield",
+      "title": "Wait For Night",
+      "year": 1976,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Pop Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Chelsea Records",
+          "catalog_number": "CHL-515"
+        }
+      ]
+    },
+    {
+      "instance_id": 2005564026,
+      "release_id": 25263304,
+      "folder_id": 1,
+      "artist": "Amon Amarth",
+      "title": "Twilight Of The Thunder God",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Melodic Death Metal",
+        "Viking Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Church Of Vinyl",
+          "catalog_number": "CHURCH064"
+        },
+        {
+          "name": "Metal Blade Records",
+          "catalog_number": "039842519418"
+        },
+        {
+          "name": "Metal Blade Records",
+          "catalog_number": "3984-25194-6"
+        }
+      ]
+    },
+    {
+      "instance_id": 2053413275,
+      "release_id": 15675505,
+      "folder_id": 1,
+      "artist": "AC/DC",
+      "title": "High Voltage",
+      "year": 2003,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Columbia",
+          "catalog_number": "E 80201"
+        },
+        {
+          "name": "Albert Productions",
+          "catalog_number": "E 80201"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022919678,
+      "release_id": 6198104,
+      "folder_id": 1,
+      "artist": "Coheed And Cambria",
+      "title": "In Keeping Secrets Of Silent Earth: 3",
+      "year": 2014,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Emo",
+        "Prog Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Columbia",
+          "catalog_number": "88843099221"
+        },
+        {
+          "name": "Equal Vision Records",
+          "catalog_number": "88843099221"
+        },
+        {
+          "name": "Legacy",
+          "catalog_number": "88843099221"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970806289,
+      "release_id": 10498723,
+      "folder_id": 1,
+      "artist": "Coheed And Cambria",
+      "title": "Good Apollo I'm Burning Star IV | Volume One: From Fear Through The Eyes Of Madness",
+      "year": 2017,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Prog Rock",
+        "Progressive Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Columbia",
+          "catalog_number": "88985440521"
+        },
+        {
+          "name": "Equal Vision Records",
+          "catalog_number": "88985440521"
+        },
+        {
+          "name": "Legacy",
+          "catalog_number": "88985440521"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970805080,
+      "release_id": 16287080,
+      "folder_id": 1,
+      "artist": "Coheed And Cambria",
+      "title": "Good Apollo, I’m Burning Star IV Volume Two: No World For Tomorrow",
+      "year": 2020,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Single Sided",
+            "Etched",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": 1,
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Columbia",
+          "catalog_number": "19439727441"
+        },
+        {
+          "name": "Legacy",
+          "catalog_number": "1943927441"
+        }
+      ]
+    },
+    {
+      "instance_id": 2031503913,
+      "release_id": 26642330,
+      "folder_id": 1,
+      "artist": "Babymetal",
+      "title": "The Other One",
+      "year": 2023,
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "J-pop",
+        "J-Rock",
+        "Progressive Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Cooking Vinyl",
+          "catalog_number": "COOKLP875IND"
+        }
+      ]
+    },
+    {
+      "instance_id": 2031504506,
+      "release_id": 31222627,
+      "folder_id": 1,
+      "artist": "Babymetal",
+      "title": "Metal Galaxy",
+      "year": 2024,
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Alternative Rock",
+        "J-pop"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Cooking Vinyl",
+          "catalog_number": "COOKLP737X"
+        },
+        {
+          "name": "Babymetal Records",
+          "catalog_number": "COOKLP737X"
+        },
+        {
+          "name": "Amuse",
+          "catalog_number": "COOKLP737X"
+        }
+      ]
+    },
+    {
+      "instance_id": 2156899376,
+      "release_id": 37567521,
+      "folder_id": 1,
+      "artist": "Drowning Pool (2)",
+      "title": "Sinner",
+      "year": 2026,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR01036"
+        },
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR10774"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982621022,
+      "release_id": 22343035,
+      "folder_id": 1,
+      "artist": "The Pretty Reckless",
+      "title": "Going To Hell",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Alternative Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Reissue",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR00479"
+        },
+        {
+          "name": "Razor & Tie",
+          "catalog_number": "CR00479"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022635924,
+      "release_id": 25519648,
+      "folder_id": 1,
+      "artist": "Spectral Voice",
+      "title": "Eroded Corridors Of Unbeing ",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Death Metal",
+        "Doom Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Dark Descent Records",
+          "catalog_number": "DDR192LP"
+        }
+      ]
+    },
+    {
+      "instance_id": 2003153154,
+      "release_id": 33531114,
+      "folder_id": 1,
+      "artist": "Sicksense (2)",
+      "title": "Cross Me Twice",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Earache",
+          "catalog_number": "MOSH693LP"
+        }
+      ]
+    },
+    {
+      "instance_id": 2042134811,
+      "release_id": 13791997,
+      "folder_id": 1,
+      "artist": "Texas Hippie Coalition",
+      "title": "High In The Saddle",
+      "year": 2019,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46070"
+        }
+      ]
+    },
+    {
+      "instance_id": 2037271745,
+      "release_id": 20669998,
+      "folder_id": 1,
+      "artist": "High On Fire",
+      "title": "Bat Salad",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Sludge Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "45 RPM",
+            "EP",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46090"
+        }
+      ]
+    },
+    {
+      "instance_id": 2042134168,
+      "release_id": 27100506,
+      "folder_id": 1,
+      "artist": "Black Label Society",
+      "title": "Nuns And Roaches",
+      "year": 2019,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "EP",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46205"
+        }
+      ]
+    },
+    {
+      "instance_id": 2042133415,
+      "release_id": 24392543,
+      "folder_id": 1,
+      "artist": "Black Label Society",
+      "title": "The Blessed Hellride",
+      "year": 2020,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Hard Rock",
+        "Stoner Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46283"
+        }
+      ]
+    },
+    {
+      "instance_id": 2028949447,
+      "release_id": 19026433,
+      "folder_id": 1,
+      "artist": "Pop Evil",
+      "title": "Versatile ",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46302"
+        }
+      ]
+    },
+    {
+      "instance_id": 2037273198,
+      "release_id": 16041764,
+      "folder_id": 1,
+      "artist": "Pop Evil",
+      "title": "Pop Evil",
+      "year": 2018,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-8986"
+        }
+      ]
+    },
+    {
+      "instance_id": 2037273475,
+      "release_id": 9316834,
+      "folder_id": 1,
+      "artist": "Dope (4)",
+      "title": "Blood Money Part 1",
+      "year": 2016,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Industrial",
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne Music",
+          "catalog_number": "EOM-LP-6478"
+        }
+      ]
+    },
+    {
+      "instance_id": 2042133677,
+      "release_id": 27351747,
+      "folder_id": 1,
+      "artist": "Black Label Society",
+      "title": "Mafia",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Southern Rock",
+        "Doom Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46677"
+        },
+        {
+          "name": "Black Label Recordings (2)",
+          "catalog_number": "EOM-LP-46677"
+        }
+      ]
+    },
+    {
+      "instance_id": 2042133886,
+      "release_id": 21216757,
+      "folder_id": 1,
+      "artist": "Black Label Society",
+      "title": "Stronger Than Death",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46279"
+        },
+        {
+          "name": "Black Label Recordings (2)",
+          "catalog_number": "EOM-LP-46279"
+        },
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46557"
+        }
+      ]
+    },
+    {
+      "instance_id": 2042133140,
+      "release_id": 24392255,
+      "folder_id": 1,
+      "artist": "Black Label Society",
+      "title": "1919 Eternal",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Stoner Rock",
+        "Southern Rock",
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46281"
+        },
+        {
+          "name": "Black Label Recordings (2)",
+          "catalog_number": "EOM-LP-46281"
+        },
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46678"
+        }
+      ]
+    },
+    {
+      "instance_id": 2042132944,
+      "release_id": 24392633,
+      "folder_id": 1,
+      "artist": "Black Label Society",
+      "title": "Hangover Music Vol. VI",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Southern Rock",
+        "Stoner Rock",
+        "Heavy Metal",
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46285"
+        },
+        {
+          "name": "Black Label Recordings (2)",
+          "catalog_number": "EOM-LP-46285"
+        },
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46674"
+        }
+      ]
+    },
+    {
+      "instance_id": 2037272865,
+      "release_id": 21085825,
+      "folder_id": 1,
+      "artist": "Avatar (13)",
+      "title": "Hunter Gatherer",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Melodic Death Metal",
+        "Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46186"
+        },
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46370"
+        }
+      ]
+    },
+    {
+      "instance_id": 2042134474,
+      "release_id": 24683927,
+      "folder_id": 1,
+      "artist": "High On Fire",
+      "title": "Snakes For The Divine",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Doom Metal",
+        "Stoner Rock",
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46345"
+        },
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46483"
+        }
+      ]
+    },
+    {
+      "instance_id": 2038944665,
+      "release_id": 22942577,
+      "folder_id": 1,
+      "artist": "Pike Vs The Automaton",
+      "title": "Pike Vs The Automaton",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Doom Metal",
+        "Stoner Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46560"
+        },
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46619"
+        }
+      ]
+    },
+    {
+      "instance_id": 2032331624,
+      "release_id": 21301423,
+      "folder_id": 1,
+      "artist": "Black Label Society",
+      "title": "Doom Crew Inc.",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Groove Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Picture Disc",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-8967"
+        },
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46599"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022916870,
+      "release_id": 31566919,
+      "folder_id": 1,
+      "artist": "Lamb Of God",
+      "title": "Killadelphia",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Epic",
+          "catalog_number": "19658890851"
+        }
+      ]
+    },
+    {
+      "instance_id": 2025343900,
+      "release_id": 32408343,
+      "folder_id": 1,
+      "artist": "Lamb Of God",
+      "title": "Resolution",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Thrash",
+        "Groove Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Epic",
+          "catalog_number": "19658890861"
+        },
+        {
+          "name": "Legacy",
+          "catalog_number": "19658890861"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982607999,
+      "release_id": 32481486,
+      "folder_id": 1,
+      "artist": "Burn The Priest",
+      "title": "Burn The Priest",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Groove Metal",
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Epic",
+          "catalog_number": "19658890881"
+        },
+        {
+          "name": "Legacy",
+          "catalog_number": "19658890881"
+        }
+      ]
+    },
+    {
+      "instance_id": 2096218010,
+      "release_id": 32905224,
+      "folder_id": 1,
+      "artist": "Lamb Of God",
+      "title": "Wrath",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Groove Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Epic",
+          "catalog_number": "19802801481"
+        },
+        {
+          "name": "Legacy",
+          "catalog_number": "19802801481"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970857253,
+      "release_id": 31766699,
+      "folder_id": 1,
+      "artist": "Lamb Of God",
+      "title": "Ashes Of The Wake",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Groove Metal",
+        "Heavy Metal",
+        "Thrash"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Epic",
+          "catalog_number": "19658890791"
+        },
+        {
+          "name": "Prosthetic Records",
+          "catalog_number": "19658890791"
+        },
+        {
+          "name": "Legacy",
+          "catalog_number": "19658890791"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022628588,
+      "release_id": 33738669,
+      "folder_id": 1,
+      "artist": "Falling In Reverse",
+      "title": "Just Like You",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Post-Hardcore",
+        "Pop Punk",
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Epitaph",
+          "catalog_number": "87363-1SC2"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022628896,
+      "release_id": 31497584,
+      "folder_id": 1,
+      "artist": "Falling In Reverse",
+      "title": "Popular Monster",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Epitaph",
+          "catalog_number": "87612-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2027930688,
+      "release_id": 34001280,
+      "folder_id": 1,
+      "artist": "Sleep Theory",
+      "title": "Afterglow",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Hard Rock",
+        "Pop Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Epitaph",
+          "catalog_number": "F88083-1COS"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982427993,
+      "release_id": 28760989,
+      "folder_id": 1,
+      "artist": "Coheed And Cambria",
+      "title": "The Second Stage Turbine Blade",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Prog Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Equal Vision Records",
+          "catalog_number": "EVR114"
+        },
+        {
+          "name": "Equal Vision Records",
+          "catalog_number": "evr114"
+        }
+      ]
+    },
+    {
+      "instance_id": 1991223360,
+      "release_id": 33465914,
+      "folder_id": 1,
+      "artist": "Coheed And Cambria",
+      "title": "Vaxis III: The Father Of Make Believe",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Prog Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Evil Ink Records",
+          "catalog_number": "198704222382"
+        }
+      ]
+    },
+    {
+      "instance_id": 2039315941,
+      "release_id": 31232755,
+      "folder_id": 1,
+      "artist": "Coheed And Cambria",
+      "title": "The Joke B/W Deranged",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Evil Ink Records",
+          "catalog_number": "EI2I2V"
+        },
+        {
+          "name": "Virgin Music",
+          "catalog_number": "EI2I2V"
+        }
+      ]
+    },
+    {
+      "instance_id": 2085744145,
+      "release_id": 35670271,
+      "folder_id": 1,
+      "artist": "The Pretty Reckless",
+      "title": "Taylor Momsen's Pretty Reckless Christmas",
+      "year": 2025,
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "styles": [
+        "Holiday",
+        "Alternative Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "EP"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fearless Records",
+          "catalog_number": "00888072723092"
+        }
+      ]
+    },
+    {
+      "instance_id": 2112219183,
+      "release_id": 18135433,
+      "folder_id": 1,
+      "artist": "I Prevail",
+      "title": "Lifelines",
+      "year": 2016,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Pop Punk",
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR00091"
+        }
+      ]
+    },
+    {
+      "instance_id": 2112217400,
+      "release_id": 13420818,
+      "folder_id": 1,
+      "artist": "I Prevail",
+      "title": "Trauma",
+      "year": 2019,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR00661"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982622243,
+      "release_id": 17329930,
+      "folder_id": 1,
+      "artist": "The Pretty Reckless",
+      "title": "Death By Rock And Roll",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Single Sided",
+            "Etched"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": 1,
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR01251"
+        }
+      ]
+    },
+    {
+      "instance_id": 2025344917,
+      "release_id": 31326520,
+      "folder_id": 1,
+      "artist": "Ice Nine Kills",
+      "title": "The Silver Scream 2: Welcome To Horrorwood",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Horror Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR01829"
+        }
+      ]
+    },
+    {
+      "instance_id": 2040126317,
+      "release_id": 31455092,
+      "folder_id": 1,
+      "artist": "Ice Nine Kills",
+      "title": "Every Trick In The Book",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Symphonic Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR01896"
+        }
+      ]
+    },
+    {
+      "instance_id": 2040125807,
+      "release_id": 21215755,
+      "folder_id": 1,
+      "artist": "Ice Nine Kills",
+      "title": "The Predator Becomes The Prey",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR01908"
+        }
+      ]
+    },
+    {
+      "instance_id": 2005569189,
+      "release_id": 26143994,
+      "folder_id": 1,
+      "artist": "The Pretty Reckless",
+      "title": "Other Worlds",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR02739"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022630177,
+      "release_id": 32352849,
+      "folder_id": 1,
+      "artist": "Ice Nine Kills",
+      "title": "The Silver Scream (9-Bit)",
+      "year": 2024,
+      "genres": [
+        "Electronic",
+        "Rock"
+      ],
+      "styles": [
+        "Chiptune",
+        "Nintendocore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "45 RPM",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR03984"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022630301,
+      "release_id": 32353167,
+      "folder_id": 1,
+      "artist": "Ice Nine Kills",
+      "title": "Welcome To Horrorwood (9-Bit)",
+      "year": 2024,
+      "genres": [
+        "Electronic",
+        "Rock"
+      ],
+      "styles": [
+        "Chiptune",
+        "Nintendocore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "45 RPM",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR03987"
+        }
+      ]
+    },
+    {
+      "instance_id": 2035444979,
+      "release_id": 33146664,
+      "folder_id": 1,
+      "artist": "I Prevail",
+      "title": "Heart Vs. Mind",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "EP",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR04333"
+        }
+      ]
+    },
+    {
+      "instance_id": 1991222394,
+      "release_id": 33454652,
+      "folder_id": 1,
+      "artist": "Bloodywood",
+      "title": "Nu Delhi",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Nu Metal",
+        "Folk Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR04341"
+        }
+      ]
+    },
+    {
+      "instance_id": 2112218829,
+      "release_id": 36435418,
+      "folder_id": 1,
+      "artist": "I Prevail",
+      "title": "True Power",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Post-Hardcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR1833"
+        }
+      ]
+    },
+    {
+      "instance_id": 2062607059,
+      "release_id": 35046290,
+      "folder_id": 1,
+      "artist": "Ice Nine Kills",
+      "title": "I Heard They Kill Live 2!!",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "45 RPM",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR04567"
+        },
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR04578"
+        }
+      ]
+    },
+    {
+      "instance_id": 2068315121,
+      "release_id": 35135900,
+      "folder_id": 1,
+      "artist": "I Prevail",
+      "title": "Violent Nature",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Post-Hardcore",
+        "Hard Rock",
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR04656"
+        },
+        {
+          "name": "Fearless Records",
+          "catalog_number": "FEAR04685"
+        }
+      ]
+    },
+    {
+      "instance_id": 2031508576,
+      "release_id": 17596213,
+      "folder_id": 1,
+      "artist": "Greg Puciato",
+      "title": "Fuck Content",
+      "year": 2021,
+      "genres": [
+        "Electronic",
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Synthwave"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Federal Prisoner",
+          "catalog_number": "FP011.1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2085592120,
+      "release_id": 18730927,
+      "folder_id": 1,
+      "artist": "Paramore",
+      "title": "Riot!",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Emo",
+        "Pop Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fueled By Ramen",
+          "catalog_number": "7567-89957-9"
+        },
+        {
+          "name": "Fueled By Ramen",
+          "catalog_number": "159612-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2058178072,
+      "release_id": 22620167,
+      "folder_id": 1,
+      "artist": "Blink-182",
+      "title": "Greatest Hits",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Pop Rock",
+        "Pop Punk"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Geffen Records",
+          "catalog_number": "B0032687-01"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "B0032687-01"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022635191,
+      "release_id": 32253798,
+      "folder_id": 1,
+      "artist": "Skillet",
+      "title": "Revolution",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Post Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Hear It Loud",
+          "catalog_number": "HIL002"
+        }
+      ]
+    },
+    {
+      "instance_id": 2141543956,
+      "release_id": 11860186,
+      "folder_id": 1,
+      "artist": "Breaking Benjamin",
+      "title": "Ember",
+      "year": 2018,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Hollywood Records",
+          "catalog_number": "D002823001"
+        }
+      ]
+    },
+    {
+      "instance_id": 2083001058,
+      "release_id": 16262240,
+      "folder_id": 1,
+      "artist": "Queen",
+      "title": "Greatest Hits",
+      "year": 2020,
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "styles": [
+        "Arena Rock",
+        "Hard Rock",
+        "Pop Rock",
+        "Classic Rock",
+        "Rock & Roll",
+        "Glam"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Hollywood Records",
+          "catalog_number": "D003654901"
+        }
+      ]
+    },
+    {
+      "instance_id": 2075979069,
+      "release_id": 22562576,
+      "folder_id": 1,
+      "artist": "Various",
+      "title": "Guardians Of The Galaxy Vol. 2",
+      "year": 2022,
+      "genres": [
+        "Rock",
+        "Stage & Screen"
+      ],
+      "styles": [
+        "Soundtrack",
+        "Classic Rock",
+        "Pop Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": 1,
+          "descriptions": [
+            "Deluxe Edition",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Hollywood Records",
+          "catalog_number": "D003944101"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022917979,
+      "release_id": 29326357,
+      "folder_id": 1,
+      "artist": "Avenged Sevenfold",
+      "title": "Sounding The Seventh Trumpet",
+      "year": 2013,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Hopeless Records",
+          "catalog_number": "HR660-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970087942,
+      "release_id": 29343220,
+      "folder_id": 1,
+      "artist": "Avenged Sevenfold",
+      "title": "City Of Evil",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hardcore",
+        "Heavy Metal",
+        "Progressive Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Hopeless Records",
+          "catalog_number": "HR682-1"
+        },
+        {
+          "name": "Warner Bros. Records",
+          "catalog_number": "HR682-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970089337,
+      "release_id": 29344369,
+      "folder_id": 1,
+      "artist": "Avenged Sevenfold",
+      "title": "Avenged Sevenfold",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Hopeless Records",
+          "catalog_number": "HR696-1"
+        },
+        {
+          "name": "Warner Bros. Records",
+          "catalog_number": "HR696-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022622801,
+      "release_id": 15682764,
+      "folder_id": 1,
+      "artist": "Avenged Sevenfold",
+      "title": "Diamonds In The Rough",
+      "year": 2020,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Hopeless Records",
+          "catalog_number": "093624896548"
+        },
+        {
+          "name": "Warner Records",
+          "catalog_number": "093624896548"
+        }
+      ]
+    },
+    {
+      "instance_id": 2072442880,
+      "release_id": 34628575,
+      "folder_id": 1,
+      "artist": "Nine Inch Nails",
+      "title": "Tron: Ares (Original Motion Picture Soundtrack)",
+      "year": 2025,
+      "genres": [
+        "Electronic",
+        "Stage & Screen"
+      ],
+      "styles": [
+        "Soundtrack",
+        "Score"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Interscope Records",
+          "catalog_number": "602478702402.1"
+        },
+        {
+          "name": "The Null Corporation",
+          "catalog_number": "NULL 22"
+        },
+        {
+          "name": "Walt Disney Records",
+          "catalog_number": "602478702402"
+        }
+      ]
+    },
+    {
+      "instance_id": 2083002169,
+      "release_id": 35337928,
+      "folder_id": 1,
+      "artist": "Fall Out Boy",
+      "title": "From Under The Cork Tree",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Pop Punk",
+        "Alternative Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Island Records",
+          "catalog_number": "602478352812"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "602478352812"
+        },
+        {
+          "name": "Island Records",
+          "catalog_number": "602478352812.1"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "602478352812.1"
+        }
+      ]
+    },
+    {
+      "instance_id": 1991241717,
+      "release_id": 33324864,
+      "folder_id": 1,
+      "artist": "Saliva",
+      "title": "Revelation: Retold",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Judge & Jury RECORDS",
+          "catalog_number": "none"
+        }
+      ]
+    },
+    {
+      "instance_id": 2038939014,
+      "release_id": 12161162,
+      "folder_id": 1,
+      "artist": "Otep",
+      "title": "The Ascension",
+      "year": 2018,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Koch Records",
+          "catalog_number": "KOC-LP-5097"
+        },
+        {
+          "name": "Koch Records",
+          "catalog_number": "EOM-LP-46002"
+        }
+      ]
+    },
+    {
+      "instance_id": 2031507583,
+      "release_id": 31295483,
+      "folder_id": 1,
+      "artist": "Ghost (32)",
+      "title": "Rite Here Rite Now (Original Motion Picture Soundtrack)",
+      "year": 2024,
+      "genres": [
+        "Rock",
+        "Stage & Screen"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Heavy Metal",
+        "Soundtrack"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Loma Vista",
+          "catalog_number": "LVR04167"
+        }
+      ]
+    },
+    {
+      "instance_id": 2036362877,
+      "release_id": 33790944,
+      "folder_id": 1,
+      "artist": "Ghost (32)",
+      "title": "Skeletá",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Metal",
+        "Arena Rock",
+        "Hard Rock",
+        "Heavy Metal",
+        "Pop Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Loma Vista",
+          "catalog_number": "LVR04688"
+        }
+      ]
+    },
+    {
+      "instance_id": 2096218859,
+      "release_id": 35012030,
+      "folder_id": 1,
+      "artist": "Rise Against",
+      "title": "Ricochet",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Melodic Hardcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Loma Vista",
+          "catalog_number": "LVR04700"
+        }
+      ]
+    },
+    {
+      "instance_id": 2054775874,
+      "release_id": 2288696,
+      "folder_id": 1,
+      "artist": "Wu-Tang Clan",
+      "title": "Enter The Wu-Tang (36 Chambers)",
+      "year": 2000,
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [
+        "Hardcore Hip-Hop",
+        "Boom Bap"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Loud Records",
+          "catalog_number": "07863-66336-1"
+        },
+        {
+          "name": "RCA",
+          "catalog_number": "07863-66336-1"
+        },
+        {
+          "name": "Wu-Tang Records",
+          "catalog_number": "07863-66336-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982610918,
+      "release_id": 24811523,
+      "folder_id": 1,
+      "artist": "P.O.D.",
+      "title": "When Angels & Serpents Dance",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Mascot Records (2)",
+          "catalog_number": "M76741"
+        }
+      ]
+    },
+    {
+      "instance_id": 1971246194,
+      "release_id": 31103180,
+      "folder_id": 1,
+      "artist": "P.O.D.",
+      "title": "Veritas",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Mascot Records (2)",
+          "catalog_number": "M77041"
+        },
+        {
+          "name": "Mascot Records (2)",
+          "catalog_number": "M77401-3"
+        }
+      ]
+    },
+    {
+      "instance_id": 2035975981,
+      "release_id": 9731183,
+      "folder_id": 1,
+      "artist": "Amon Amarth",
+      "title": "The Avenger",
+      "year": 2017,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Death Metal",
+        "Viking Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Metal Blade Records",
+          "catalog_number": "3984-14262-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022917314,
+      "release_id": 10628783,
+      "folder_id": 1,
+      "artist": "Amon Amarth",
+      "title": "Fate Of Norns",
+      "year": 2017,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Viking Metal",
+        "Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Metal Blade Records",
+          "catalog_number": "3984-14498-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2003150505,
+      "release_id": 10628771,
+      "folder_id": 1,
+      "artist": "Amon Amarth",
+      "title": "With Oden On Our Side",
+      "year": 2017,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Viking Metal",
+        "Death Metal",
+        "Melodic Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Metal Blade Records",
+          "catalog_number": "3984-14584-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2050500920,
+      "release_id": 11596975,
+      "folder_id": 1,
+      "artist": "Amon Amarth",
+      "title": "Deceiver Of The Gods",
+      "year": 2018,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Death Metal",
+        "Viking Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Metal Blade Records",
+          "catalog_number": "3984-15562-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970855549,
+      "release_id": 33199554,
+      "folder_id": 1,
+      "artist": "Killswitch Engage",
+      "title": "This Consequence",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Metal Blade Records",
+          "catalog_number": "3984-16124-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2026314593,
+      "release_id": 33340352,
+      "folder_id": 1,
+      "artist": "Whitechapel (2)",
+      "title": "Hymns In Dissonance",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Deathcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Metal Blade Records",
+          "catalog_number": "3984-16126-6"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970851346,
+      "release_id": 32151180,
+      "folder_id": 1,
+      "artist": "Killswitch Engage",
+      "title": "Atonement",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Metal Blade Records",
+          "catalog_number": "3984-16127-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982440938,
+      "release_id": 32029139,
+      "folder_id": 1,
+      "artist": "Amon Amarth",
+      "title": "Berserker",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Death Metal",
+        "Viking Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Metal Blade Records",
+          "catalog_number": "3984-25241-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2032331066,
+      "release_id": 29726722,
+      "folder_id": 1,
+      "artist": "Enterprise Earth",
+      "title": "Death: An Anthology",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Deathcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "MNK-LP-402261"
+        }
+      ]
+    },
+    {
+      "instance_id": 2028948792,
+      "release_id": 31142810,
+      "folder_id": 1,
+      "artist": "Dogma (53)",
+      "title": "Gospel 1",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "MNK-LP-46694"
+        }
+      ]
+    },
+    {
+      "instance_id": 2042134611,
+      "release_id": 27361689,
+      "folder_id": 1,
+      "artist": "High On Fire",
+      "title": "De Vermis Mysteriis",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Sludge Metal",
+        "Stoner Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "MNK-LP-46743"
+        }
+      ]
+    },
+    {
+      "instance_id": 2027104197,
+      "release_id": 34035066,
+      "folder_id": 1,
+      "artist": "High On Fire",
+      "title": "Luminiferous",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Sludge Metal",
+        "Stoner Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "MNK-LP-46744"
+        }
+      ]
+    },
+    {
+      "instance_id": 2037270886,
+      "release_id": 27007650,
+      "folder_id": 1,
+      "artist": "High On Fire",
+      "title": "Electric Messiah",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Stoner Rock",
+        "Doom Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "MNK-LP-46745"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970081741,
+      "release_id": 26488889,
+      "folder_id": 1,
+      "artist": "Pop Evil",
+      "title": "Skeletons",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "MNK-LP-46893"
+        }
+      ]
+    },
+    {
+      "instance_id": 2032331300,
+      "release_id": 27601998,
+      "folder_id": 1,
+      "artist": "Pop Evil",
+      "title": "Onyx",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Alternative Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "MNK-LP-46992"
+        }
+      ]
+    },
+    {
+      "instance_id": 2037272509,
+      "release_id": 24590006,
+      "folder_id": 1,
+      "artist": "I Am (2)",
+      "title": "Eternal Steel",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "EOM-LP-46310"
+        },
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "EOM-LP-46656"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970081819,
+      "release_id": 33439853,
+      "folder_id": 1,
+      "artist": "Pop Evil",
+      "title": "What Remains",
+      "year": 2025,
+      "genres": [
+        "Electronic",
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "MNK-LP-441971"
+        },
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "MNK-LP-442068"
+        }
+      ]
+    },
+    {
+      "instance_id": 2037271349,
+      "release_id": 28161682,
+      "folder_id": 1,
+      "artist": "High On Fire",
+      "title": "The Art Of Self Defense",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Stoner Rock",
+        "Doom Metal",
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "MNK-LP-46958"
+        },
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "MNK-LP-46985"
+        }
+      ]
+    },
+    {
+      "instance_id": 2132266831,
+      "release_id": 36958182,
+      "folder_id": 1,
+      "artist": "Black Label Society",
+      "title": "Engines Of Demolition",
+      "year": 2026,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Doom Metal",
+        "Groove Metal",
+        "Heavy Metal",
+        "Southern Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Limited Edition"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "7\"",
+            "45 RPM",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "MNK-LP-443417"
+        },
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "MNK-LP-443810"
+        },
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "MNK-SS-443820"
+        }
+      ]
+    },
+    {
+      "instance_id": 2037272036,
+      "release_id": 24396509,
+      "folder_id": 1,
+      "artist": "The Callous Daoboys",
+      "title": "Celebrity Therapist",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "EOM-LP-46668"
+        },
+        {
+          "name": "Modern Static Records",
+          "catalog_number": "EOM-LP-46668"
+        },
+        {
+          "name": "MNRK Heavy",
+          "catalog_number": "EOM-LP-46690"
+        }
+      ]
+    },
+    {
+      "instance_id": 2028948581,
+      "release_id": 32465808,
+      "folder_id": 1,
+      "artist": "Kittie",
+      "title": "Until The End",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "MNRK Music Group",
+          "catalog_number": "MNK-LP-440988"
+        }
+      ]
+    },
+    {
+      "instance_id": 2144346956,
+      "release_id": 36783007,
+      "folder_id": 1,
+      "artist": "Bullet For My Valentine",
+      "title": "Bullet For My Valentine",
+      "year": 2026,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "33 ⅓ RPM",
+            "EP"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Music For Nations",
+          "catalog_number": "19958425141"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982632590,
+      "release_id": 28120540,
+      "folder_id": 1,
+      "artist": "Within Temptation",
+      "title": "Bleed Out",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Symphonic Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Music On Vinyl",
+          "catalog_number": "MOVLP3588"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970848757,
+      "release_id": 10584875,
+      "folder_id": 1,
+      "artist": "Jinjer (2)",
+      "title": "King Of Everything",
+      "year": 2017,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Napalm Records",
+          "catalog_number": "NPR 677 VINYL"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982451261,
+      "release_id": 11576262,
+      "folder_id": 1,
+      "artist": "Jinjer (2)",
+      "title": "Cloud Factory",
+      "year": 2018,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Napalm Records",
+          "catalog_number": "NPR 771 VINYL"
+        }
+      ]
+    },
+    {
+      "instance_id": 1991233659,
+      "release_id": 14243749,
+      "folder_id": 1,
+      "artist": "Jinjer (2)",
+      "title": "Macro",
+      "year": 2019,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Progressive Metal",
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Napalm Records",
+          "catalog_number": "NPR 818 VINYL"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970846597,
+      "release_id": 13088637,
+      "folder_id": 1,
+      "artist": "Jinjer (2)",
+      "title": "Micro",
+      "year": 2019,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Progressive Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Single Sided",
+            "EP",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Napalm Records",
+          "catalog_number": "NPR 834 VINYL"
+        }
+      ]
+    },
+    {
+      "instance_id": 1991231964,
+      "release_id": 20088952,
+      "folder_id": 1,
+      "artist": "Jinjer (2)",
+      "title": "Wallflowers",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Napalm Records",
+          "catalog_number": "NPR1001VINYL"
+        }
+      ]
+    },
+    {
+      "instance_id": 2005586658,
+      "release_id": 31468880,
+      "folder_id": 1,
+      "artist": "Mushroomhead",
+      "title": "Call The Devil",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Napalm Records",
+          "catalog_number": "NPR1231VINYL"
+        }
+      ]
+    },
+    {
+      "instance_id": 1991230971,
+      "release_id": 33063837,
+      "folder_id": 1,
+      "artist": "Jinjer (2)",
+      "title": "Duél",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Progressive Metal",
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Napalm Records",
+          "catalog_number": "NPR1328VINYL"
+        }
+      ]
+    },
+    {
+      "instance_id": 2055129572,
+      "release_id": 34896392,
+      "folder_id": 1,
+      "artist": "Burning Witches (2)",
+      "title": "Inquisition",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Power Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Napalm Records",
+          "catalog_number": "NPR1349VINYL"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022918333,
+      "release_id": 33594624,
+      "folder_id": 1,
+      "artist": "Alien Weaponry",
+      "title": "Te Rā",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Groove Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Napalm Records",
+          "catalog_number": "NPR1352VINYL"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022918844,
+      "release_id": 26674388,
+      "folder_id": 1,
+      "artist": "Alien Weaponry",
+      "title": "Tangaroa",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Thrash"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Napalm Records",
+          "catalog_number": "NPR959VINYL"
+        }
+      ]
+    },
+    {
+      "instance_id": 1991243568,
+      "release_id": 28367659,
+      "folder_id": 1,
+      "artist": "Sevendust",
+      "title": "Truth Killer",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Industrial Metal",
+        "Alternative Rock",
+        "Heavy Metal",
+        "Nu Metal",
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Napalm Records",
+          "catalog_number": "NPR1227VINYL"
+        },
+        {
+          "name": "Napalm Records",
+          "catalog_number": "NPR1227VINYLS"
+        }
+      ]
+    },
+    {
+      "instance_id": 2075515297,
+      "release_id": 35043650,
+      "folder_id": 1,
+      "artist": "Power Glove (2)",
+      "title": "Devil May Cry - Soundtrack From The Netflix Series ",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Netflix Music, LLC",
+          "catalog_number": "none"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970084564,
+      "release_id": 33031188,
+      "folder_id": 1,
+      "artist": "All That Remains",
+      "title": "Antifragile",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Not On Label (All That Remains Self-released)",
+          "catalog_number": "ATR_V_PHYS"
+        }
+      ]
+    },
+    {
+      "instance_id": 2053083175,
+      "release_id": 34825706,
+      "folder_id": 1,
+      "artist": "As December Falls",
+      "title": "Everything's On Fire But I'm Fine",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Pop Punk"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Not On Label (As December Falls Self-released)",
+          "catalog_number": "none"
+        }
+      ]
+    },
+    {
+      "instance_id": 2072205227,
+      "release_id": 34681071,
+      "folder_id": 1,
+      "artist": "Atreyu",
+      "title": "The Curse (2025)",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Not On Label (Atreyu Self-released)",
+          "catalog_number": "none"
+        }
+      ]
+    },
+    {
+      "instance_id": 2025344571,
+      "release_id": 30410870,
+      "folder_id": 1,
+      "artist": "Imminence",
+      "title": "The Black",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Alternative Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "45 RPM",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Not On Label (Imminence Self-released)",
+          "catalog_number": "none"
+        }
+      ]
+    },
+    {
+      "instance_id": 2026316849,
+      "release_id": 21236641,
+      "folder_id": 1,
+      "artist": "Epica (2)",
+      "title": "Omega Alive",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Symphonic Metal"
+      ],
+      "formats": [
+        {
+          "name": "Box Set",
+          "quantity": 1,
+          "descriptions": [
+            "Limited Edition"
+          ]
+        },
+        {
+          "name": "DVD",
+          "quantity": 1,
+          "descriptions": [
+            "DVD-Video",
+            "NTSC",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "Blu-ray",
+          "quantity": 1,
+          "descriptions": [
+            "Stereo"
+          ]
+        },
+        {
+          "name": "CD",
+          "quantity": 2,
+          "descriptions": [
+            "Album"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": 1,
+          "descriptions": [
+            "Limited Edition"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 5,
+          "descriptions": [
+            "10\"",
+            "33 ⅓ RPM",
+            "Album",
+            "Picture Disc"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Nuclear Blast",
+          "catalog_number": "NB 6069-5"
+        }
+      ]
+    },
+    {
+      "instance_id": 2005566555,
+      "release_id": 33661488,
+      "folder_id": 1,
+      "artist": "Epica (2)",
+      "title": "Aspiral",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Symphonic Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Nuclear Blast Records",
+          "catalog_number": "NBR 73311"
+        }
+      ]
+    },
+    {
+      "instance_id": 2125321828,
+      "release_id": 36643537,
+      "folder_id": 1,
+      "artist": "Rob Zombie",
+      "title": "The Great Satan",
+      "year": 2026,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Industrial Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Nuclear Blast Records",
+          "catalog_number": "NBR 7531"
+        }
+      ]
+    },
+    {
+      "instance_id": 2036363466,
+      "release_id": 34285582,
+      "folder_id": 1,
+      "artist": "Nightwish",
+      "title": "Once",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Symphonic Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Nuclear Blast Records",
+          "catalog_number": "NBR57323"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022631317,
+      "release_id": 33791043,
+      "folder_id": 1,
+      "artist": "Machine Head (3)",
+      "title": "Unatoned",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Groove Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Nuclear Blast Records",
+          "catalog_number": "NBR 7425"
+        },
+        {
+          "name": "Nuclear Blast Records",
+          "catalog_number": "NB 7425"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982629347,
+      "release_id": 29611174,
+      "folder_id": 1,
+      "artist": "Spiritbox",
+      "title": "Eternal Blue",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Pale Chord",
+          "catalog_number": "481-15"
+        }
+      ]
+    },
+    {
+      "instance_id": 1991245575,
+      "release_id": 33344192,
+      "folder_id": 1,
+      "artist": "Spiritbox",
+      "title": "Tsunami Sea",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Progressive Metal",
+        "Alternative Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Pale Chord Music, LLC",
+          "catalog_number": "RISE 549-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2054776941,
+      "release_id": 34639660,
+      "folder_id": 1,
+      "artist": "Gwar",
+      "title": "The Return Of Gor-Gor",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "EP",
+            "Etched"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Pit Records (11)",
+          "catalog_number": "SP0012-V"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970828102,
+      "release_id": 16464003,
+      "folder_id": 1,
+      "artist": "Five Finger Death Punch",
+      "title": "A Decade Of Destruction ",
+      "year": 2020,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Prospect Park",
+          "catalog_number": "PPPK-701078"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982455809,
+      "release_id": 33512852,
+      "folder_id": 1,
+      "artist": "Lamb Of God",
+      "title": "New American Gospel",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Groove Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Prosthetic Records",
+          "catalog_number": "PROS106366"
+        }
+      ]
+    },
+    {
+      "instance_id": 2031505180,
+      "release_id": 29470564,
+      "folder_id": 1,
+      "artist": "Puscifer",
+      "title": "Global Probing! Live From Prescott, Arizona",
+      "year": 2024,
+      "genres": [
+        "Electronic",
+        "Rock"
+      ],
+      "styles": [
+        "Art Rock",
+        "Experimental"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Special Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Puscifer Entertainment",
+          "catalog_number": "575572"
+        }
+      ]
+    },
+    {
+      "instance_id": 2115043357,
+      "release_id": 11247408,
+      "folder_id": 1,
+      "artist": "Rammstein",
+      "title": "Mutter",
+      "year": 2017,
+      "genres": [
+        "Electronic",
+        "Rock"
+      ],
+      "styles": [
+        "Industrial Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Rammstein",
+          "catalog_number": "2729669"
+        },
+        {
+          "name": "Universal Music",
+          "catalog_number": "2729669"
+        }
+      ]
+    },
+    {
+      "instance_id": 2100206525,
+      "release_id": 10312513,
+      "folder_id": 1,
+      "artist": "All That Remains",
+      "title": "Madness",
+      "year": 2017,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Razor & Tie",
+          "catalog_number": "RZR00216"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022616183,
+      "release_id": 31728752,
+      "folder_id": 1,
+      "artist": "The Pretty Reckless",
+      "title": "Who You Selling For",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Razor & Tie",
+          "catalog_number": "RZR000038"
+        },
+        {
+          "name": "DAS Label",
+          "catalog_number": "RZR000038"
+        },
+        {
+          "name": "Razor & Tie",
+          "catalog_number": "FEAR03954"
+        }
+      ]
+    },
+    {
+      "instance_id": 2050502615,
+      "release_id": 15778713,
+      "folder_id": 1,
+      "artist": "Death (2)",
+      "title": "Human",
+      "year": 2020,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Relapse Records",
+          "catalog_number": "RR7165"
+        },
+        {
+          "name": "Relapse Records",
+          "catalog_number": "RLP7671651"
+        }
+      ]
+    },
+    {
+      "instance_id": 2035727167,
+      "release_id": 23553425,
+      "folder_id": 1,
+      "artist": "Death (2)",
+      "title": "Spiritual Healing",
+      "year": 2017,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Relapse Records",
+          "catalog_number": "RR7194"
+        },
+        {
+          "name": "Relapse Records",
+          "catalog_number": "RLP7671941"
+        }
+      ]
+    },
+    {
+      "instance_id": 2050502754,
+      "release_id": 24039560,
+      "folder_id": 1,
+      "artist": "Death (2)",
+      "title": "Leprosy",
+      "year": 2017,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Relapse Records",
+          "catalog_number": "RR7228"
+        },
+        {
+          "name": "Relapse Records",
+          "catalog_number": "RLP7672281"
+        }
+      ]
+    },
+    {
+      "instance_id": 2050502859,
+      "release_id": 22519286,
+      "folder_id": 1,
+      "artist": "Death (2)",
+      "title": "Scream Bloody Gore",
+      "year": 2016,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Relapse Records",
+          "catalog_number": "RR7324"
+        },
+        {
+          "name": "Relapse Records",
+          "catalog_number": "RLP7673241"
+        }
+      ]
+    },
+    {
+      "instance_id": 2039607363,
+      "release_id": 34190176,
+      "folder_id": 1,
+      "artist": "My Chemical Romance",
+      "title": "Three Cheers For Sweet Revenge",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Emo",
+        "Alternative Rock",
+        "Post-Hardcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Picture Disc",
+            "Reissue"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Single Sided",
+            "Picture Disc"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": 1,
+          "descriptions": [
+            "Deluxe Edition",
+            "Limited Edition",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Reprise Records",
+          "catalog_number": "093624837084"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022632710,
+      "release_id": 31849079,
+      "folder_id": 1,
+      "artist": "My Chemical Romance",
+      "title": "May Death Never Stop You",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Punk",
+        "Pop Punk",
+        "Alternative Rock",
+        "Post-Hardcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Reprise Records",
+          "catalog_number": "093624840695"
+        }
+      ]
+    },
+    {
+      "instance_id": 2054778068,
+      "release_id": 7571397,
+      "folder_id": 1,
+      "artist": "My Chemical Romance",
+      "title": "I Brought You My Bullets, You Brought Me Your Love",
+      "year": 2015,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Emo",
+        "Punk"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Reprise Records",
+          "catalog_number": "550187-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2151700628,
+      "release_id": 11150792,
+      "folder_id": 1,
+      "artist": "Green Day",
+      "title": "Greatest Hits: God's Favorite Band",
+      "year": 2017,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Pop Punk",
+        "Power Pop"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Reprise Records",
+          "catalog_number": "564901-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022632157,
+      "release_id": 31899496,
+      "folder_id": 1,
+      "artist": "My Chemical Romance",
+      "title": "The Black Parade",
+      "year": 2018,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Pop Punk",
+        "Rock Opera"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Picture Disc",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Reprise Records",
+          "catalog_number": "9362-49055-8"
+        }
+      ]
+    },
+    {
+      "instance_id": 2050499931,
+      "release_id": 16159373,
+      "folder_id": 1,
+      "artist": "My Chemical Romance",
+      "title": "Danger Days (The True Lives Of The Fabulous Killjoys)",
+      "year": 2020,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Punk"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Reprise Records",
+          "catalog_number": "093624961840"
+        },
+        {
+          "name": "Sire",
+          "catalog_number": "093624961840"
+        }
+      ]
+    },
+    {
+      "instance_id": 2077182575,
+      "release_id": 35438812,
+      "folder_id": 1,
+      "artist": "Various",
+      "title": "Arcane League Of Legends - Season Two Soundtrack",
+      "year": 2025,
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Rock",
+        "Latin",
+        "Pop",
+        "Stage & Screen"
+      ],
+      "styles": [
+        "Soundtrack"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Riot Games",
+          "catalog_number": "198704467523"
+        }
+      ]
+    },
+    {
+      "instance_id": 2038943169,
+      "release_id": 2675605,
+      "folder_id": 1,
+      "artist": "Serpentcult",
+      "title": "Weight Of Light",
+      "year": 2008,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Doom Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Rise Above Records",
+          "catalog_number": "RISELP112"
+        }
+      ]
+    },
+    {
+      "instance_id": 2027322121,
+      "release_id": 29167036,
+      "folder_id": 1,
+      "artist": "The Devil Wears Prada",
+      "title": "Space EP",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "33 ⅓ RPM",
+            "Single Sided",
+            "EP",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Rise Records (3)",
+          "catalog_number": "289-6"
+        }
+      ]
+    },
+    {
+      "instance_id": 2027321726,
+      "release_id": 26441483,
+      "folder_id": 1,
+      "artist": "Spiritbox",
+      "title": "Spiritbox",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Progressive Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "33 ⅓ RPM",
+            "EP",
+            "Limited Edition",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Rise Records (3)",
+          "catalog_number": "RISE 477-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982631306,
+      "release_id": 28908265,
+      "folder_id": 1,
+      "artist": "Spiritbox",
+      "title": "The Fear Of Fear",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Alternative Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "EP",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Rise Records (3)",
+          "catalog_number": "Rise 533-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2173236016,
+      "release_id": 37959258,
+      "folder_id": 1,
+      "artist": "Motionless In White",
+      "title": "Decades",
+      "year": 2026,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Picture Disc"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Roadrunner Records",
+          "catalog_number": "075678590139"
+        }
+      ]
+    },
+    {
+      "instance_id": 2059109110,
+      "release_id": 35020337,
+      "folder_id": 1,
+      "artist": "Slipknot",
+      "title": "Slipknot",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": 1,
+          "descriptions": [
+            "Deluxe Edition",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Roadrunner Records",
+          "catalog_number": "075678611643"
+        }
+      ]
+    },
+    {
+      "instance_id": 2085592812,
+      "release_id": 28203271,
+      "folder_id": 1,
+      "artist": "Motionless In White",
+      "title": "Scoring The End Of The World (Deluxe Edition)",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Roadrunner Records",
+          "catalog_number": "075678636493"
+        }
+      ]
+    },
+    {
+      "instance_id": 1991227314,
+      "release_id": 23674994,
+      "folder_id": 1,
+      "artist": "Coheed And Cambria",
+      "title": "Vaxis II: A Window Of The Waking Mind",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Prog Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Roadrunner Records",
+          "catalog_number": "7567-864067"
+        }
+      ]
+    },
+    {
+      "instance_id": 2050505199,
+      "release_id": 34731945,
+      "folder_id": 1,
+      "artist": "Killswitch Engage",
+      "title": "Incarnate",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Mispress",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Roadrunner Records",
+          "catalog_number": "081227812201"
+        },
+        {
+          "name": "Rhino Entertainment Company",
+          "catalog_number": "RCV1 727419"
+        }
+      ]
+    },
+    {
+      "instance_id": 2050505084,
+      "release_id": 34714878,
+      "folder_id": 1,
+      "artist": "Killswitch Engage",
+      "title": "As Daylight Dies",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Roadrunner Records",
+          "catalog_number": "081227812270"
+        },
+        {
+          "name": "Rhino Entertainment Company",
+          "catalog_number": "RCV1 727409"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022615805,
+      "release_id": 33864408,
+      "folder_id": 1,
+      "artist": "Killswitch Engage",
+      "title": "Alive Or Just Breathing",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hardcore",
+        "Heavy Metal",
+        "Metalcore",
+        "Melodic Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Roadrunner Records",
+          "catalog_number": "R1 184572"
+        },
+        {
+          "name": "Roadrunner Records",
+          "catalog_number": "603497819409"
+        }
+      ]
+    },
+    {
+      "instance_id": 2050504990,
+      "release_id": 34740177,
+      "folder_id": 1,
+      "artist": "Killswitch Engage",
+      "title": "The End Of Heartache",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Single Sided",
+            "Etched"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": 1,
+          "descriptions": [
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Roadrunner Records",
+          "catalog_number": "RCV1 727417"
+        },
+        {
+          "name": "Roadrunner Records",
+          "catalog_number": "081227812232"
+        }
+      ]
+    },
+    {
+      "instance_id": 2005579863,
+      "release_id": 33475127,
+      "folder_id": 1,
+      "artist": "Dorothy (13)",
+      "title": "The Way",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Roc Nation",
+          "catalog_number": "810133759184"
+        }
+      ]
+    },
+    {
+      "instance_id": 2027932014,
+      "release_id": 23024159,
+      "folder_id": 1,
+      "artist": "Dorothy (13)",
+      "title": "Gifts From The Holy Ghost",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Classic Rock",
+        "Stoner Rock",
+        "Blues Rock",
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Roc Nation",
+          "catalog_number": "ROC00553-01"
+        }
+      ]
+    },
+    {
+      "instance_id": 2050506001,
+      "release_id": 2050680,
+      "folder_id": 1,
+      "artist": "Foo Fighters",
+      "title": "Greatest Hits",
+      "year": 2009,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Roswell Records",
+          "catalog_number": "88697-36921-1"
+        },
+        {
+          "name": "RCA",
+          "catalog_number": "88697-36921-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022637847,
+      "release_id": 5612180,
+      "folder_id": 1,
+      "artist": "John Williams (4), London Symphony Orchestra",
+      "title": "Star Wars / The Empire Strikes Back / The Original Soundtrack From The Motion Picture",
+      "year": 1980,
+      "genres": [
+        "Classical",
+        "Stage & Screen"
+      ],
+      "styles": [
+        "Soundtrack"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "RSO",
+          "catalog_number": "RS-2-4201"
+        }
+      ]
+    },
+    {
+      "instance_id": 2050506147,
+      "release_id": 34002165,
+      "folder_id": 1,
+      "artist": "Hozier",
+      "title": "Hozier",
+      "year": 2025,
+      "genres": [
+        "Rock",
+        "Blues",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "styles": [
+        "Blues Rock",
+        "Indie Pop"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Rubyworks",
+          "catalog_number": "19658871041"
+        },
+        {
+          "name": "Columbia",
+          "catalog_number": "19658871041"
+        }
+      ]
+    },
+    {
+      "instance_id": 2071147623,
+      "release_id": 35273455,
+      "folder_id": 1,
+      "artist": "We Came As Romans",
+      "title": "All Is Beautiful…Because We're Doomed",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Post-Hardcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "SharpTone",
+          "catalog_number": "7455-7"
+        }
+      ]
+    },
+    {
+      "instance_id": 2040125313,
+      "release_id": 33040083,
+      "folder_id": 1,
+      "artist": "Ice Nine Kills",
+      "title": "Safe Is Just A Shadow (Re-Shadowed)",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Emo",
+        "Metalcore",
+        "Punk"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Silver Scream Records",
+          "catalog_number": "none"
+        }
+      ]
+    },
+    {
+      "instance_id": 2096217578,
+      "release_id": 33040002,
+      "folder_id": 1,
+      "artist": "Ice Nine Kills",
+      "title": "Last Chance To Make Amends",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Emo",
+        "Punk"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Silver Scream Records",
+          "catalog_number": "none"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022915950,
+      "release_id": 32835204,
+      "folder_id": 1,
+      "artist": "Flyleaf",
+      "title": "Flyleaf",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Heavy Metal",
+        "Hard Rock",
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Smartpunk Records",
+          "catalog_number": "SPREC1128"
+        }
+      ]
+    },
+    {
+      "instance_id": 2107404561,
+      "release_id": 35842594,
+      "folder_id": 1,
+      "artist": "The Devil Wears Prada",
+      "title": "Flowers",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Post-Hardcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Solid State",
+          "catalog_number": "TNV000160R"
+        }
+      ]
+    },
+    {
+      "instance_id": 2050504180,
+      "release_id": 34753349,
+      "folder_id": 1,
+      "artist": "Fit For A King",
+      "title": "Lonely God",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Solid State Records (7)",
+          "catalog_number": "TNV000158"
+        }
+      ]
+    },
+    {
+      "instance_id": 2005575726,
+      "release_id": 14648412,
+      "folder_id": 1,
+      "artist": "Bullet For My Valentine",
+      "title": "Gravity",
+      "year": 2018,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Spinefarm Records",
+          "catalog_number": "2567408307"
+        }
+      ]
+    },
+    {
+      "instance_id": 2154105355,
+      "release_id": 37321725,
+      "folder_id": 1,
+      "artist": "Black Veil Brides",
+      "title": "Vindicate",
+      "year": 2026,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Spinefarm Records",
+          "catalog_number": "SPINE801117P"
+        }
+      ]
+    },
+    {
+      "instance_id": 2005576938,
+      "release_id": 25130218,
+      "folder_id": 1,
+      "artist": "Bullet For My Valentine",
+      "title": "Bullet For My Valentine",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Spinefarm Records",
+          "catalog_number": "SPINE535548"
+        },
+        {
+          "name": "Search And Destroy Records",
+          "catalog_number": "SPINE535548"
+        }
+      ]
+    },
+    {
+      "instance_id": 2083001883,
+      "release_id": 32702064,
+      "folder_id": 1,
+      "artist": "Nirvana",
+      "title": "Nevermind",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Grunge"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sub Pop",
+          "catalog_number": "DGC 24425"
+        },
+        {
+          "name": "DGC",
+          "catalog_number": "DGC 24425"
+        },
+        {
+          "name": "DGC",
+          "catalog_number": "0720642442517"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982433780,
+      "release_id": 23657423,
+      "folder_id": 1,
+      "artist": "Bad Omens (2)",
+      "title": "The Death Of Peace Of Mind",
+      "year": 2022,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Post-Hardcore",
+        "Industrial"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "none"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022616556,
+      "release_id": 33782865,
+      "folder_id": 1,
+      "artist": "Bones UK",
+      "title": "Unplugged",
+      "year": 2019,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "10\"",
+            "33 ⅓ RPM",
+            "Test Pressing"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "none"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022621728,
+      "release_id": 15420902,
+      "folder_id": 1,
+      "artist": "Asking Alexandria",
+      "title": "Like A House On Fire",
+      "year": 2020,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Pop Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "none"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022627694,
+      "release_id": 20929576,
+      "folder_id": 1,
+      "artist": "Black Veil Brides",
+      "title": "The Phantom Tomorrow",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Gothic Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM-1607"
+        }
+      ]
+    },
+    {
+      "instance_id": 2005573524,
+      "release_id": 27131325,
+      "folder_id": 1,
+      "artist": "Bad Omens (2)",
+      "title": "Finding God Before God Finds Me",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM2080"
+        }
+      ]
+    },
+    {
+      "instance_id": 2096219159,
+      "release_id": 34670077,
+      "folder_id": 1,
+      "artist": "Veil of Maya",
+      "title": "The Common Man's Collapse",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Progressive Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM2159"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022620889,
+      "release_id": 27615729,
+      "folder_id": 1,
+      "artist": "Asking Alexandria",
+      "title": "From Death To Destiny",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Hard Rock",
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM2162"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022639237,
+      "release_id": 27066432,
+      "folder_id": 1,
+      "artist": "Veil of Maya",
+      "title": "[M]other",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM2166"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022627094,
+      "release_id": 28490362,
+      "folder_id": 1,
+      "artist": "Bad Omens (2)",
+      "title": "Bad Omens",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM2323"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982614665,
+      "release_id": 28725454,
+      "folder_id": 1,
+      "artist": "Poppy (38)",
+      "title": "Zig",
+      "year": 2023,
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Pop"
+      ],
+      "styles": [
+        "Art Rock",
+        "Experimental",
+        "Electro"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM2852"
+        }
+      ]
+    },
+    {
+      "instance_id": 2005587915,
+      "release_id": 31189306,
+      "folder_id": 1,
+      "artist": "Poppy (38)",
+      "title": "Flux",
+      "year": 2024,
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Pop"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Dream Pop",
+        "Shoegaze"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3045"
+        }
+      ]
+    },
+    {
+      "instance_id": 2005584711,
+      "release_id": 31065530,
+      "folder_id": 1,
+      "artist": "Kittie",
+      "title": "Fire",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Groove Metal",
+        "Alternative Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3085"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022613722,
+      "release_id": 31733774,
+      "folder_id": 1,
+      "artist": "Bones UK",
+      "title": "Soft",
+      "year": 2024,
+      "genres": [
+        "Electronic",
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3165"
+        }
+      ]
+    },
+    {
+      "instance_id": 1982613783,
+      "release_id": 32533236,
+      "folder_id": 1,
+      "artist": "Poppy (38)",
+      "title": "Negative Spaces ",
+      "year": 2024,
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "styles": [
+        "Alternative Metal",
+        "Metalcore",
+        "Nu Metal",
+        "Industrial Metal",
+        "Alternative Rock",
+        "Alt-Pop"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3253"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970091305,
+      "release_id": 32838558,
+      "folder_id": 1,
+      "artist": "Bad Omens (2)",
+      "title": "Concrete Jungle (The OST)",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 3,
+          "descriptions": [
+            "LP",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3278"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022615346,
+      "release_id": 32246367,
+      "folder_id": 1,
+      "artist": "Various",
+      "title": "American Psycho (Comic Series Soundtrack)",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "New Wave",
+        "Experimental",
+        "Goth Rock",
+        "Post-Punk"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3288"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022614599,
+      "release_id": 33199854,
+      "folder_id": 1,
+      "artist": "Black Veil Brides",
+      "title": "The Mourning",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "45 RPM",
+            "Single Sided",
+            "EP",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3355"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022614293,
+      "release_id": 33711270,
+      "folder_id": 1,
+      "artist": "Within Destruction",
+      "title": "Animetal",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Deathcore",
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3400"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022634445,
+      "release_id": 33696768,
+      "folder_id": 1,
+      "artist": "Poppy (38)",
+      "title": "I Disagree",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Nu Metal",
+        "Pop Punk",
+        "Alternative Metal",
+        "Pop Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3431"
+        }
+      ]
+    },
+    {
+      "instance_id": 2115250418,
+      "release_id": 33898533,
+      "folder_id": 1,
+      "artist": "Face Yourself",
+      "title": "Martyr",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Deathcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "45 RPM"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3465"
+        }
+      ]
+    },
+    {
+      "instance_id": 2045942084,
+      "release_id": 34586806,
+      "folder_id": 1,
+      "artist": "Slaughter to Prevail",
+      "title": "Grizzly",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Deathcore",
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3490"
+        }
+      ]
+    },
+    {
+      "instance_id": 2040466318,
+      "release_id": 34513906,
+      "folder_id": 1,
+      "artist": "Born Of Osiris",
+      "title": "Through Shadows",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Deathcore",
+        "Progressive Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3506"
+        }
+      ]
+    },
+    {
+      "instance_id": 2115261554,
+      "release_id": 35240950,
+      "folder_id": 1,
+      "artist": "Face Yourself",
+      "title": "Fury",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Deathcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "Single Sided"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3582"
+        }
+      ]
+    },
+    {
+      "instance_id": 2086341392,
+      "release_id": 35715751,
+      "folder_id": 1,
+      "artist": "The Pretty Wild",
+      "title": "Zero.Point.Genesis",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3604"
+        }
+      ]
+    },
+    {
+      "instance_id": 2112216216,
+      "release_id": 36293638,
+      "folder_id": 1,
+      "artist": "Poppy (38)",
+      "title": "Empty Hands",
+      "year": 2026,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3675"
+        }
+      ]
+    },
+    {
+      "instance_id": 2112216020,
+      "release_id": 36242248,
+      "folder_id": 1,
+      "artist": "Kittie",
+      "title": "Spit XXV",
+      "year": 2026,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "45 RPM",
+            "Single Sided",
+            "EP",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sumerian Records",
+          "catalog_number": "SUM3689"
+        }
+      ]
+    },
+    {
+      "instance_id": 2107405092,
+      "release_id": 26855237,
+      "folder_id": 1,
+      "artist": "Lacuna Coil",
+      "title": "Dark Adrenaline",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Goth Rock",
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Record Store Day",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Svart Records",
+          "catalog_number": "SRE580LP"
+        },
+        {
+          "name": "Svart Records",
+          "catalog_number": "SRE580LPB2"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022633391,
+      "release_id": 9154868,
+      "folder_id": 1,
+      "artist": "Nine Inch Nails",
+      "title": "Pretty Hate Machine",
+      "year": 2011,
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Industrial",
+        "Synth-pop"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "The Bicycle Music Company",
+          "catalog_number": "B0015767-01"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970812628,
+      "release_id": 4726282,
+      "folder_id": 1,
+      "artist": "Evanescence",
+      "title": "Fallen",
+      "year": 2017,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Metal",
+        "Nu Metal",
+        "Ballad"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "The Bicycle Music Company",
+          "catalog_number": "BMC00020"
+        }
+      ]
+    },
+    {
+      "instance_id": 2005582356,
+      "release_id": 10381957,
+      "folder_id": 1,
+      "artist": "Evanescence",
+      "title": "The Open Door",
+      "year": 2017,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Goth Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "The Bicycle Music Company",
+          "catalog_number": "BMC00021"
+        }
+      ]
+    },
+    {
+      "instance_id": 2085031798,
+      "release_id": 34439386,
+      "folder_id": 1,
+      "artist": "Various",
+      "title": "Thrilled To Be At Warped Tour '25",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Pop Punk",
+        "Post-Hardcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "Compilation"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Thriller Records (3)",
+          "catalog_number": "none"
+        }
+      ]
+    },
+    {
+      "instance_id": 2085031588,
+      "release_id": 34667791,
+      "folder_id": 1,
+      "artist": "Catch Your Breath",
+      "title": "Shame On Me",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Thriller Records (3)",
+          "catalog_number": "THRILL-019"
+        }
+      ]
+    },
+    {
+      "instance_id": 1991229567,
+      "release_id": 33111981,
+      "folder_id": 1,
+      "artist": "If Not For Me",
+      "title": "Everything You Wanted",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Thriller Records (3)",
+          "catalog_number": "THRILL-020"
+        }
+      ]
+    },
+    {
+      "instance_id": 2072470754,
+      "release_id": 35082266,
+      "folder_id": 1,
+      "artist": "Not Enough Space",
+      "title": "Weaponize Your Rage",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore",
+        "Post-Hardcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Thriller Records (3)",
+          "catalog_number": "THRILL-026"
+        }
+      ]
+    },
+    {
+      "instance_id": 2085032080,
+      "release_id": 35474584,
+      "folder_id": 1,
+      "artist": "Dead Eyes (3)",
+      "title": "Black Hole Heart",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "12\"",
+            "33 ⅓ RPM",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Thriller Records (3)",
+          "catalog_number": "THRILL-027"
+        }
+      ]
+    },
+    {
+      "instance_id": 2038940884,
+      "release_id": 11265469,
+      "folder_id": 1,
+      "artist": "Rotting Obscene",
+      "title": "Depths Of Decay",
+      "year": 2017,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Transcending Records",
+          "catalog_number": "TR022V"
+        }
+      ]
+    },
+    {
+      "instance_id": 2038941462,
+      "release_id": 11247178,
+      "folder_id": 1,
+      "artist": "Cardiac Arrest (3)",
+      "title": "Morgue Mutilations",
+      "year": 2017,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Transcending Records",
+          "catalog_number": "TR052V"
+        }
+      ]
+    },
+    {
+      "instance_id": 2038940267,
+      "release_id": 19497640,
+      "folder_id": 1,
+      "artist": "Winds Of Plague",
+      "title": "The Great Stone War",
+      "year": 2021,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Deathcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Transcending Records",
+          "catalog_number": "TR094V"
+        }
+      ]
+    },
+    {
+      "instance_id": 2048226064,
+      "release_id": 34716873,
+      "folder_id": 1,
+      "artist": "Ready For Death",
+      "title": "Pay With Your Face",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Death Metal",
+        "Thrash",
+        "Hardcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Translation Loss Records",
+          "catalog_number": "TL2261"
+        },
+        {
+          "name": "Translation Loss Records",
+          "catalog_number": "TL2261-V3"
+        }
+      ]
+    },
+    {
+      "instance_id": 2031506416,
+      "release_id": 28566370,
+      "folder_id": 1,
+      "artist": "Magnitude (2)",
+      "title": "Of Days Renewed...",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hardcore"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Triple-B Records (2)",
+          "catalog_number": "TBR: 192"
+        }
+      ]
+    },
+    {
+      "instance_id": 2085596944,
+      "release_id": 30170624,
+      "folder_id": 1,
+      "artist": "Alice In Chains",
+      "title": "Jar Of Flies",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Grunge"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "EP",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Velvet Hammer",
+          "catalog_number": "19658800371"
+        },
+        {
+          "name": "Columbia",
+          "catalog_number": "19658800371"
+        },
+        {
+          "name": "Legacy",
+          "catalog_number": "19658800371"
+        },
+        {
+          "name": "Sony Music",
+          "catalog_number": "19658800371"
+        }
+      ]
+    },
+    {
+      "instance_id": 2050504692,
+      "release_id": 34278169,
+      "folder_id": 1,
+      "artist": "Volbeat",
+      "title": "God Of Angels Trust",
+      "year": 2025,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Vertigo",
+          "catalog_number": "7577268"
+        },
+        {
+          "name": "Universal Music Group",
+          "catalog_number": "7577268"
+        }
+      ]
+    },
+    {
+      "instance_id": 2077182498,
+      "release_id": 31782617,
+      "folder_id": 1,
+      "artist": "Various",
+      "title": "Arcane League of Legends - Season One Soundtrack",
+      "year": 2024,
+      "genres": [
+        "Hip Hop",
+        "Rock",
+        "Pop",
+        "Stage & Screen"
+      ],
+      "styles": [
+        "Soundtrack"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Virgin",
+          "catalog_number": "00196922980411"
+        }
+      ]
+    },
+    {
+      "instance_id": 2078866204,
+      "release_id": 21937474,
+      "folder_id": 1,
+      "artist": "Danny Elfman",
+      "title": "Tim Burton's The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+      "year": 2022,
+      "genres": [
+        "Stage & Screen"
+      ],
+      "styles": [
+        "Soundtrack",
+        "Musical"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": 1,
+          "descriptions": [
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Walt Disney Records",
+          "catalog_number": "D003820301"
+        }
+      ]
+    },
+    {
+      "instance_id": 2050560756,
+      "release_id": 14818281,
+      "folder_id": 1,
+      "artist": "Black Sabbath",
+      "title": "Paranoid",
+      "year": 2019,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Warner Bros. Records",
+          "catalog_number": "RR1 3104"
+        },
+        {
+          "name": "Warner Records",
+          "catalog_number": "081227946708"
+        },
+        {
+          "name": "Rhino Records (2)",
+          "catalog_number": "RR1 3104"
+        }
+      ]
+    },
+    {
+      "instance_id": 2151700169,
+      "release_id": 33192918,
+      "folder_id": 1,
+      "artist": "Linkin Park",
+      "title": "Meteora",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Warner Records",
+          "catalog_number": "093624844051"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970864099,
+      "release_id": 30658477,
+      "folder_id": 1,
+      "artist": "Linkin Park",
+      "title": "Papercuts",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Warner Records",
+          "catalog_number": "093624846000"
+        }
+      ]
+    },
+    {
+      "instance_id": 2022623814,
+      "release_id": 28076374,
+      "folder_id": 1,
+      "artist": "Avenged Sevenfold",
+      "title": "Hail To The King",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Warner Records",
+          "catalog_number": "093624854449"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970090324,
+      "release_id": 28272502,
+      "folder_id": 1,
+      "artist": "Avenged Sevenfold",
+      "title": "Life Is But A Dream...",
+      "year": 2023,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Metal",
+        "Alternative Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Warner Records",
+          "catalog_number": "093624869955"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970861912,
+      "release_id": 32312319,
+      "folder_id": 1,
+      "artist": "Linkin Park",
+      "title": "From Zero",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Warner Records",
+          "catalog_number": "093624839941"
+        },
+        {
+          "name": "Machine Shop Recordings",
+          "catalog_number": "093624839941"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970872685,
+      "release_id": 16032457,
+      "folder_id": 1,
+      "artist": "Linkin Park",
+      "title": "Hybrid Theory",
+      "year": 2020,
+      "genres": [
+        "Electronic",
+        "Hip Hop",
+        "Rock"
+      ],
+      "styles": [
+        "Nu Metal",
+        "Breakbeat",
+        "Hip Hop"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Repress"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Compilation"
+          ]
+        },
+        {
+          "name": "Box Set",
+          "quantity": 1,
+          "descriptions": [
+            "Compilation",
+            "Deluxe Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Warner Records",
+          "catalog_number": "093624893233"
+        },
+        {
+          "name": "Machine Shop Recordings",
+          "catalog_number": "093624893233"
+        }
+      ]
+    },
+    {
+      "instance_id": 2085591438,
+      "release_id": 16098379,
+      "folder_id": 1,
+      "artist": "Linkin Park",
+      "title": "Minutes To Midnight",
+      "year": 2020,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Warner Records",
+          "catalog_number": "093624998105"
+        },
+        {
+          "name": "Machine Shop Recordings",
+          "catalog_number": "093624998105"
+        }
+      ]
+    },
+    {
+      "instance_id": 1970803583,
+      "release_id": 29610802,
+      "folder_id": 1,
+      "artist": "Black Sabbath",
+      "title": "Sabbath Bloody Sabbath",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Warner Records",
+          "catalog_number": "RCV1 2695"
+        },
+        {
+          "name": "Warner Records",
+          "catalog_number": "603497828081"
+        },
+        {
+          "name": "Rhino Records (2)",
+          "catalog_number": "RCV1 2695"
+        },
+        {
+          "name": "Rhino Records (2)",
+          "catalog_number": "603497828081"
+        }
+      ]
+    },
+    {
+      "instance_id": 2045837009,
+      "release_id": 32685021,
+      "folder_id": 1,
+      "artist": "Black Sabbath",
+      "title": "Tyr",
+      "year": 2024,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Hard Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Warner Records",
+          "catalog_number": "R1 727163"
+        },
+        {
+          "name": "Warner Records",
+          "catalog_number": "603497820276"
+        },
+        {
+          "name": "Warner Records",
+          "catalog_number": "RCV1 727163"
+        }
+      ]
+    }
+  ]
+}
