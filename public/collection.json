@@ -2,11 +2,11 @@
   "schema_version": 1,
   "source": "Discogs collection",
   "username": "wookie61",
-  "generated_at": "2026-09-03T17:50:02.597Z",
+  "generated_at": "2026-09-04T17:35:17.138Z",
   "verification": {
     "complete": true,
-    "reported_items": 270,
-    "fetched_items": 270,
+    "reported_items": 271,
+    "fetched_items": 271,
     "fetched_pages": 3,
     "per_page": 100
   },
@@ -6372,6 +6372,56 @@
         {
           "name": "Relapse Records",
           "catalog_number": "RLP7673241"
+        }
+      ]
+    },
+    {
+      "instance_id": 2180826359,
+      "release_id": 37852599,
+      "folder_id": 1,
+      "artist": "My Chemical Romance",
+      "title": "Danger Days (The True Lives Of The Fabulous Killjoys)",
+      "year": 2026,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Punk",
+        "Emo"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Picture Disc",
+            "Reissue",
+            "Remastered"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Picture Disc"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": 1,
+          "descriptions": [
+            "Deluxe Edition",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Reprise Records",
+          "catalog_number": "093624827351"
         }
       ]
     },
