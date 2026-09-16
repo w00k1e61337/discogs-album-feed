@@ -2,11 +2,11 @@
   "schema_version": 1,
   "source": "Discogs collection",
   "username": "wookie61",
-  "generated_at": "2026-09-15T18:10:21.597Z",
+  "generated_at": "2026-09-16T18:11:04.375Z",
   "verification": {
     "complete": true,
-    "reported_items": 271,
-    "fetched_items": 271,
+    "reported_items": 272,
+    "fetched_items": 272,
     "fetched_pages": 3,
     "per_page": 100
   },
@@ -871,6 +871,37 @@
         {
           "name": "Better Noise Music",
           "catalog_number": "BNM-288-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2184638281,
+      "release_id": 38405469,
+      "folder_id": 1,
+      "artist": "The Hu (2)",
+      "title": "Hun",
+      "year": 2026,
+      "genres": [
+        "Rock",
+        "Folk, World, & Country"
+      ],
+      "styles": [
+        "Folk Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 2,
+          "descriptions": [
+            "LP",
+            "Single Sided"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Better Noise Music",
+          "catalog_number": "BNM-41-1"
         }
       ]
     },
