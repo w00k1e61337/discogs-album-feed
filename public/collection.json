@@ -2,11 +2,11 @@
   "schema_version": 1,
   "source": "Discogs collection",
   "username": "wookie61",
-  "generated_at": "2026-09-18T17:40:04.531Z",
+  "generated_at": "2026-09-19T17:16:15.682Z",
   "verification": {
     "complete": true,
-    "reported_items": 272,
-    "fetched_items": 272,
+    "reported_items": 273,
+    "fetched_items": 273,
     "fetched_pages": 3,
     "per_page": 100
   },
@@ -1280,6 +1280,55 @@
         {
           "name": "BMG",
           "catalog_number": "538950281"
+        }
+      ]
+    },
+    {
+      "instance_id": 2185568638,
+      "release_id": 38376537,
+      "folder_id": 1,
+      "artist": "Evanescence",
+      "title": "Sanctuary",
+      "year": 2026,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Single Sided",
+            "Etched"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": 1,
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "BMG",
+          "catalog_number": "964256720"
+        },
+        {
+          "name": "BMG",
+          "catalog_number": "964256750"
         }
       ]
     },
