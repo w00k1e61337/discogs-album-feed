@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source": "Discogs collection",
   "username": "wookie61",
-  "generated_at": "2026-10-08T19:55:25.671Z",
+  "generated_at": "2026-10-09T19:31:44.811Z",
   "verification": {
     "complete": true,
     "reported_items": 273,
@@ -893,8 +893,7 @@
           "name": "Vinyl",
           "quantity": 1,
           "descriptions": [
-            "LP",
-            "Album"
+            "LP"
           ]
         },
         {
@@ -902,7 +901,13 @@
           "quantity": 1,
           "descriptions": [
             "LP",
-            "Single Sided",
+            "Single Sided"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": 1,
+          "descriptions": [
             "Album"
           ]
         }
