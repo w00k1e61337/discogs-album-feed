@@ -2,11 +2,11 @@
   "schema_version": 1,
   "source": "Discogs collection",
   "username": "wookie61",
-  "generated_at": "2026-11-01T18:54:29.251Z",
+  "generated_at": "2026-11-02T22:46:05.131Z",
   "verification": {
     "complete": true,
-    "reported_items": 273,
-    "fetched_items": 273,
+    "reported_items": 275,
+    "fetched_items": 275,
     "fetched_pages": 3,
     "per_page": 100
   },
@@ -4270,6 +4270,37 @@
       ]
     },
     {
+      "instance_id": 2200493999,
+      "release_id": 38702508,
+      "folder_id": 1,
+      "artist": "Saliva",
+      "title": "Breaking Through",
+      "year": 2026,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Nu Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Judge & Jury",
+          "catalog_number": "JUJY1735669LP"
+        }
+      ]
+    },
+    {
       "instance_id": 1991241717,
       "release_id": 33324864,
       "folder_id": 1,
@@ -4799,6 +4830,41 @@
         {
           "name": "Metal Blade Records",
           "catalog_number": "3984-25241-1"
+        }
+      ]
+    },
+    {
+      "instance_id": 2200493448,
+      "release_id": 38584854,
+      "folder_id": 1,
+      "artist": "Amon Amarth",
+      "title": "The Allfather Awakens",
+      "year": 2026,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Viking Metal",
+        "Melodic Death Metal"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Metal Blade Records",
+          "catalog_number": "3984-16224-1"
+        },
+        {
+          "name": "Metal Blade Records",
+          "catalog_number": "039841622416"
         }
       ]
     },
