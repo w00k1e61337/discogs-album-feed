@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source": "Discogs collection",
   "username": "wookie61",
-  "generated_at": "2026-11-16T23:22:46.093Z",
+  "generated_at": "2026-11-17T22:18:04.681Z",
   "verification": {
     "complete": true,
     "reported_items": 275,
@@ -747,7 +747,7 @@
       "release_id": 35665114,
       "folder_id": 1,
       "artist": "Five Finger Death Punch",
-      "title": "20 Years Of Five Finger Death Punch - Best Of (Volume II)",
+      "title": " 20 Years Of Five Finger Death Punch (Best Of Volume II)",
       "year": 2025,
       "genres": [
         "Rock"
@@ -4033,7 +4033,8 @@
           "descriptions": [
             "Deluxe Edition",
             "Limited Edition",
-            "Reissue"
+            "Reissue",
+            "Stereo"
           ]
         }
       ],
@@ -9326,7 +9327,9 @@
           "quantity": 2,
           "descriptions": [
             "LP",
-            "Compilation"
+            "Album",
+            "Compilation",
+            "Stereo"
           ]
         }
       ],
