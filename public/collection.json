@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source": "Discogs collection",
   "username": "wookie61",
-  "generated_at": "2026-11-18T21:54:00.419Z",
+  "generated_at": "2026-11-19T22:07:49.252Z",
   "verification": {
     "complete": true,
     "reported_items": 275,
@@ -5349,7 +5349,9 @@
           "descriptions": [
             "12\"",
             "33 ⅓ RPM",
-            "EP"
+            "EP",
+            "Limited Edition",
+            "Reissue"
           ]
         }
       ],
