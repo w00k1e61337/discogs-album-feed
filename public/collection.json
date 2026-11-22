@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source": "Discogs collection",
   "username": "wookie61",
-  "generated_at": "2026-11-21T20:30:00.983Z",
+  "generated_at": "2026-11-22T20:42:41.822Z",
   "verification": {
     "complete": true,
     "reported_items": 275,
@@ -2471,40 +2471,6 @@
       ]
     },
     {
-      "instance_id": 2042133415,
-      "release_id": 24392543,
-      "folder_id": 1,
-      "artist": "Black Label Society",
-      "title": "The Blessed Hellride",
-      "year": 2020,
-      "genres": [
-        "Rock"
-      ],
-      "styles": [
-        "Heavy Metal",
-        "Hard Rock",
-        "Stoner Rock"
-      ],
-      "formats": [
-        {
-          "name": "Vinyl",
-          "quantity": 1,
-          "descriptions": [
-            "LP",
-            "Album",
-            "Limited Edition",
-            "Reissue"
-          ]
-        }
-      ],
-      "labels": [
-        {
-          "name": "eOne",
-          "catalog_number": "EOM-LP-46283"
-        }
-      ]
-    },
-    {
       "instance_id": 2028949447,
       "release_id": 19026433,
       "folder_id": 1,
@@ -2791,6 +2757,44 @@
         {
           "name": "eOne",
           "catalog_number": "EOM-LP-46370"
+        }
+      ]
+    },
+    {
+      "instance_id": 2042133415,
+      "release_id": 24392543,
+      "folder_id": 1,
+      "artist": "Black Label Society",
+      "title": "The Blessed Hellride",
+      "year": 2020,
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Hard Rock",
+        "Stoner Rock"
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": 1,
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46283"
+        },
+        {
+          "name": "eOne",
+          "catalog_number": "EOM-LP-46679"
         }
       ]
     },
